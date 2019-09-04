@@ -8,6 +8,9 @@ namespace InClass09042019
 {
     class Class1
     {
-
+        int CourseID, CourseNumber;
+        string firstName, lastname;
+        string subject;
+        
     }
 }
